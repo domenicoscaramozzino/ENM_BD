@@ -3,7 +3,7 @@ Brownian Dynamics (BD) with Elastic Network Models (ENMs) for sampling of protei
 
 You can use the "ENM_BD.f90" (source code in Fortran) to run BD and sample new protein conformations from an input PDB structure. Reference: [INSERT BIORXIV PREPRINT LINK]
 
-![BD_example](4a3p_A_BD_ensemble.png)
+![BD_example](BD_example.png)
 
 First compile the code with: gfortran ENM_BD.f90 -o ENM.f90 -fopenmp (by default, we use 16 OpenMP threads. You can change this by modifying the "num_threads" parameter in the source code).
 

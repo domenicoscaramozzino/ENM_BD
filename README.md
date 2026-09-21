@@ -1,7 +1,7 @@
 # ENM_BD
 Brownian Dynamics (BD) with Elastic Network Models (ENMs) for sampling of protein conformational dynamics
 
-You can use the "ENM_BD.f90" (source code in Fortran) to run BD and sample new protein conformations from an input PDB structure, which you can compared e.g. to MD or NMR ensembles. Reference: [INSERT BIORXIV PREPRINT LINK]
+You can use the "ENM_BD.f90" (source code in Fortran) to run BD and sample new protein conformations from an input PDB structure, which you can compare e.g. to MD or NMR ensembles. Reference: [INSERT BIORXIV PREPRINT LINK]
 
 ![figure](BD_vs_MD.png)
 
